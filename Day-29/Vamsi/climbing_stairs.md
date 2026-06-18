@@ -4,8 +4,18 @@ Question: You are climbing a staircase. Each time you can climb 1 or 2 steps. In
 
 LeetCode link: https://leetcode.com/problems/climbing-stairs/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

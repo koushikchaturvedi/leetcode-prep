@@ -4,8 +4,18 @@ Question: Given an integer array nums representing the amount of money of each h
 
 LeetCode link: https://leetcode.com/problems/house-robber/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

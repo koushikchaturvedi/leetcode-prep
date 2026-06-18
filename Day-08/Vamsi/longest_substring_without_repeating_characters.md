@@ -4,8 +4,18 @@ Question: Given a string s, find the length of the longest substring without rep
 
 LeetCode link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

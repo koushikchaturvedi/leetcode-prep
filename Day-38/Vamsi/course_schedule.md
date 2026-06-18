@@ -4,8 +4,18 @@ Question: There are numCourses courses. Prerequisites are given as pairs. Determ
 
 LeetCode link: https://leetcode.com/problems/course-schedule/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

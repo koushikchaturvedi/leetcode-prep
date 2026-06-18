@@ -4,8 +4,18 @@ Question: Given two strings s and t, return the minimum window substring of s su
 
 LeetCode link: https://leetcode.com/problems/minimum-window-substring/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

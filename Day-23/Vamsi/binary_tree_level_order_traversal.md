@@ -4,8 +4,18 @@ Question: Given the root of a binary tree, return the level order traversal of i
 
 LeetCode link: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

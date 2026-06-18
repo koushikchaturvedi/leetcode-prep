@@ -1,9 +1,19 @@
 # Design a task ordering service
 
-Question: Design a task ordering service. Include the system goals, major components, trade-offs, and basic architecture.
+Question: Design a task ordering service.
 
-```text
-# Outline architecture, APIs, data flow, and trade-offs here
+## Algorithm
+
+Describe the high-level architecture, components, and trade-offs here.
+
+```python
+# Architecture snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

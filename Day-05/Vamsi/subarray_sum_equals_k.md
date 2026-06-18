@@ -4,8 +4,18 @@ Question: Given an array of integers nums and an integer k, return the total num
 
 LeetCode link: https://leetcode.com/problems/subarray-sum-equals-k/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

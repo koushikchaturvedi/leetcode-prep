@@ -4,8 +4,18 @@ Question: You are given two non-empty linked lists representing two non-negative
 
 LeetCode link: https://leetcode.com/problems/add-two-numbers/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

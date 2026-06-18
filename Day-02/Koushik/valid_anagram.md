@@ -4,8 +4,18 @@ Question: Given two strings s and t, return true if t is an anagram of s, and fa
 
 LeetCode link: https://leetcode.com/problems/valid-anagram/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

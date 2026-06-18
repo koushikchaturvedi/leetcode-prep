@@ -1,9 +1,19 @@
 # Design a reservation or booking system
 
-Question: Design a reservation or booking system. Include the system goals, major components, trade-offs, and basic architecture.
+Question: Design a reservation or booking system.
 
-```text
-# Outline architecture, APIs, data flow, and trade-offs here
+## Algorithm
+
+Describe the high-level architecture, components, and trade-offs here.
+
+```python
+# Architecture snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

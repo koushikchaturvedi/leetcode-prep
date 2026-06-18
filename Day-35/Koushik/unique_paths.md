@@ -4,8 +4,18 @@ Question: Given m x n grid, count number of unique paths from top-left to bottom
 
 LeetCode link: https://leetcode.com/problems/unique-paths/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

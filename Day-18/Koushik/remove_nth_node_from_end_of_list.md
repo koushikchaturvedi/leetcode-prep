@@ -4,8 +4,18 @@ Question: Given the head of a linked list, remove the nth node from the end of t
 
 LeetCode link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

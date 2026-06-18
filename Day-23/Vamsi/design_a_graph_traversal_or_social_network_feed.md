@@ -1,9 +1,19 @@
 # Design a graph traversal or social network feed
 
-Question: Design a graph traversal or social network feed. Include the system goals, major components, trade-offs, and basic architecture.
+Question: Design a graph traversal or social network feed.
 
-```text
-# Outline architecture, APIs, data flow, and trade-offs here
+## Algorithm
+
+Describe the high-level architecture, components, and trade-offs here.
+
+```python
+# Architecture snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

@@ -4,8 +4,18 @@ Question: A linked list of length n is given where each node has a random pointe
 
 LeetCode link: https://leetcode.com/problems/copy-list-with-random-pointer/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

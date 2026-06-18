@@ -4,8 +4,18 @@ Question: Given n non-negative integers a1, a2, ..., an, find two lines that tog
 
 LeetCode link: https://leetcode.com/problems/container-with-most-water/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

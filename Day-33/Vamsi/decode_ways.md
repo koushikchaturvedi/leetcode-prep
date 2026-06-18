@@ -4,8 +4,18 @@ Question: A message containing digits is encoded as letters A-Z. Given a string 
 
 LeetCode link: https://leetcode.com/problems/decode-ways/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

@@ -4,8 +4,18 @@ Question: Given an integer array nums, return the length of the longest strictly
 
 LeetCode link: https://leetcode.com/problems/longest-increasing-subsequence/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

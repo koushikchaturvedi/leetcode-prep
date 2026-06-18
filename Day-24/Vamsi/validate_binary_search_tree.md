@@ -4,8 +4,18 @@ Question: Given the root of a binary tree, determine if it is a valid binary sea
 
 LeetCode link: https://leetcode.com/problems/validate-binary-search-tree/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

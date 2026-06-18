@@ -4,8 +4,18 @@ Question: Given an integer array nums, return all the triplets [nums[i], nums[j]
 
 LeetCode link: https://leetcode.com/problems/3sum/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes

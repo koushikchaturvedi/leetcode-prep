@@ -4,8 +4,18 @@ Question: Given coins of different denominations and a total amount, compute the
 
 LeetCode link: https://leetcode.com/problems/coin-change/
 
+## Algorithm
+
+Describe the approach, pattern, and steps to solve the problem here.
+
 ```python
-# Write your solution here
+# Algorithm snippet
+```
+
+## Solution
+
+```python
+# Solution snippet
 ```
 
 ## Notes
